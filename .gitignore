@@ -1,0 +1,16 @@
+*.elc
+.emacs.d/autosaves
+.emacs.d/elpa
+.emacs.d/.emacs.desktop
+.emacs.d/ac-comphist.dat
+.emacs.d/bookmarks
+.emacs.d/desktop/emacs.desktop
+.emacs.d/desktop/lock
+.emacs.d/elisp/emacs-rails-reloaded/
+.emacs.d/emacs.desktop
+.emacs.d/eproject.lst
+.emacs.d/eshell/history
+.emacs.d/history
+.emacs.d/revive.el
+.emacs.d/tramp
+.emacs.d/url/cookies
