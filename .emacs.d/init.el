@@ -205,7 +205,7 @@
 
 
 ;; ror
-(setq load-path (cons (expand-file-name "~/.emacs.d/emacs-rails-reloaded") load-path))
+(setq load-path (cons (expand-file-name "~/.emacs.d/elisp/emacs-rails-reloaded") load-path))
 (require 'rails-autoload)
 
 ;; erc
